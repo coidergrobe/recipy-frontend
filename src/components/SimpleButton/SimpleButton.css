@@ -5,3 +5,11 @@
   height: 30px;
   border: none;
 }
+
+.button:hover,
+.button:active,
+.button:focus,
+.button:visited,
+.button:link {
+  border: none;
+}

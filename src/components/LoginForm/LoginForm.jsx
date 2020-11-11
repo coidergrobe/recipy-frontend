@@ -21,7 +21,7 @@ function LoginForm() {
             </div>
 
             <div className="input-wrapper">
-              <div class="flex-between">
+              <div className="flex-between">
                 <div>
                   <SimpleLabel name="Password" />
                 </div>

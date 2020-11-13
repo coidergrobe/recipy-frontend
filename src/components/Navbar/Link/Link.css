@@ -1,0 +1,19 @@
+.link-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 400px;
+  width: 100%;
+}
+
+.link-wrapper li {
+  list-style: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+.link-wrapper li:hover {
+}
+
+.link-wrapper > div {
+  cursor: pointer;
+}

@@ -1,2 +1,2 @@
-import Navigator from './Navigator';
-export default Navigator;
+import Navbar from "./Navbar";
+export default Navbar;

@@ -1,9 +1,16 @@
 .button {
-  width: 100%;
-  background-color: salmon;
+  width: 30%;
+  background-color: #e94949;
   margin: 8px 0;
   height: 30px;
   border: none;
+  border-radius: 1px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #cc3f3f;
 }
 
 .button:hover,
